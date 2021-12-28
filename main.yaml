@@ -1,6 +1,0 @@
----
-- hosts: all
-  tasks:
-  - name: Play proxmox role
-    include_role:
-      name: fajfer-proxmox
